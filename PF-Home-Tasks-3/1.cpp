@@ -3,7 +3,7 @@
 
 int main()
 {
-    int age = 20;
+    int age = 18;
     float height = 5.9f;
     double price = 999.99;
     char grade = 'A';
